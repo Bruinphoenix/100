@@ -1,0 +1,78 @@
+body {
+  text-align: center;
+  background-color: rgb(233, 216, 207);
+  margin: 50px;
+}
+
+main {
+  background-color: rgb(227 119 89);
+  border-radius: 10px;
+  border-style: solid;
+  border-width: 3px;
+  box-shadow: 2px 2px 2px rgba(0, 0, 0, .1);
+}
+
+footer {
+margin-top: 600px;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 100px;
+  border-style: solid;
+  border-width: 3px;
+  margin-bottom: -103px;
+}
+
+h1 {
+  font-family: "Oswald", sans-serif;
+  color: rgb(35 24 23);
+  margin-top: 100px;
+}
+
+p {
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(2, 2, 69);
+}
+ul {
+width: 500px;
+margin: 20px auto 0 auto;
+padding: 0;
+}
+
+li {
+  font-family: "Fira Sans", sans-serif;
+  color: rgb(2, 2, 69);
+  list-style: none;
+  background-color: rgb(243, 201, 116);
+  margin-top: 10px;
+  margin-bottom: 10px;
+  padding: 3px 5px 3px 5px;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, .2);
+  
+}
+
+a {
+  color: rgb(167, 1, 78);
+  text-decoration: none;
+  padding: 3px;
+}
+
+a:hover {
+  color: white;
+  background-color: rgb(167, 1, 78);
+  border-radius: 5px;
+}
+
+.date {
+  color: rgb(79 8 0);
+}
+
+#todays-challenge {
+  color: rgb(76 62 63);
+  font-weight: bold;
+  font-size: 35px;
+}
+
